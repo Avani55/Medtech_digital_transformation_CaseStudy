@@ -80,8 +80,32 @@ It has a **demonstration scalability problem**.
 If demonstrations can be scaled, revenue can increase without expanding the sales team significantly.
 
 ---
+# 6. Business Requirements Document (BRD)
 
-# 6. Proposed Solution
+## Business Requirements
+
+### BR-1 Lead Management
+The system should store all potential customers including:
+- Name
+- Clinic
+- Contact
+- Product interest
+- Location
+
+### BR-2 Product Demonstration
+The system should allow:
+- Video demonstrations
+- Online meeting scheduling
+- Product documentation access
+
+### BR-3 Order Tracking
+The system should record:
+- Product orders
+- Customer details
+- Delivery status
+
+---
+# 7. Proposed Solution
 
 ### 1. Digital Product Demonstrations
 
@@ -138,8 +162,42 @@ _Introduce online demonstrations using platforms like:_
 _This reduces travel time and increases reach._
 
 ---
+## 8. Key Performance Indicators (KPIs)
 
-# 7. Expected Business Impact
+### KPI 1 — Sales Capacity
+**Metric:** Demonstrations per week
+
+**Before Digital Solution**
+- ~10 demonstrations per week
+
+**After Digital Solution**
+- 30+ demonstrations per week through online demos and scheduling
+
+---
+
+### KPI 2 — Lead Conversion Rate
+**Metric:** Orders / Total Leads
+
+**Before**
+- ~20% conversion rate
+
+**After**
+- ~40% conversion rate due to faster engagement and follow-ups
+
+---
+
+### KPI 3 — Lead Response Time
+**Metric:** Time taken to respond to a new inquiry
+
+**Before**
+- 2–3 days response time
+
+**After**
+- Same day response through CRM alerts and notifications
+
+---
+
+# 9. Expected Business Impact
 
 | Metric | Current | After Digital Transformation |
 |------|------|------|
@@ -149,7 +207,7 @@ _This reduces travel time and increases reach._
 
 ---
 
-# 8. Revenue Impact Model
+# 10. Revenue Impact Model
 
 **Assuming average product value**
 
@@ -169,7 +227,7 @@ _This reduces travel time and increases reach._
 
 ---
 
-# 9. Strategic Growth Opportunities
+# 11. Strategic Growth Opportunities
 
 With digital infrastructure, the company could:
 
@@ -179,7 +237,7 @@ With digital infrastructure, the company could:
 
 ---
 
-# 10. Key Learnings
+# 12. Key Learnings
 
 This analysis provided experience in:
 
